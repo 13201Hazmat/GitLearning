@@ -1,0 +1,13 @@
+ Volume in drive H is Data
+ Volume Serial Number is E04B-FF17
+
+ Directory of H:\gitWorkspace\GitLearning
+
+09/18/2018  10:17 AM    <DIR>          .
+09/18/2018  10:17 AM    <DIR>          ..
+09/17/2018  06:53 PM                13 README.md
+09/18/2018  10:15 AM                12 test.txt
+09/18/2018  10:15 AM                13 test2.txt
+09/18/2018  10:17 AM                 0 text.txt
+               4 File(s)             38 bytes
+               2 Dir(s)  624,611,491,840 bytes free
